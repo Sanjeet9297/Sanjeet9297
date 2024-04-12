@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjeet Kumar</h1>
 <h3 align="center">I am a Full Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeet9297&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeet9297" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanjeet9297&label=Profile%20views&color=0e75b6&style=flat" alt="Sanjeet9297" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjeet9297" alt="sanjeet9297" /></a> </p>
 
