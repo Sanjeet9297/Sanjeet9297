@@ -3,6 +3,15 @@
 
 <img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;">
 
+### 👀 Enthusiastic and tech-driven Full Stack Developer .. 
+
+### 🌱 An eager learner to technology. An open source Enthusiast .
+ Loves to do coding in java. 
+Additionally do competitive programming in my extra time.. 
+- 💬 Ask me about **Full Stack , DSA , JAVA , MERN , REACT**
+
+### 💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeet9297&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeet9297" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjeet9297" alt="sanjeet9297" /></a> </p>
