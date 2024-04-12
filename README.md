@@ -1,21 +1,26 @@
 <h1 align="center">Hi 👋, I'm Sanjeet Kumar</h1>
 <h3 align="center">I am a Full Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanjeet9297&label=Profile%20views&color=0e75b6&style=flat" alt="Sanjeet9297" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeet9297&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeet9297" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjeet9297" alt="sanjeet9297" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sanjeet60282832" target="blank"><img src="https://img.shields.io/twitter/follow/sanjeet60282832?logo=twitter&style=for-the-badge" alt="sanjeet60282832" /></a> </p>
+
+- 🌱 I’m currently learning **Full Stack Web Developer(MERN)**
+
+- 💬 Ask me about **C, C++ , Full Stack , MERN**
 
 - 📫 How to reach me **oksanjeetkr124@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sanjeet60282832" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjeet60282832" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanjeet-kumar-722478258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanjeet-kumar-722478258" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_itz_sanjeet_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_itz_sanjeet_01/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@sanjeetkumar-py7he/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@sanjeetkumar-py7he/featured" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sanjeetkrk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sanjeetkrk/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sanjeet-kumar-722478258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjeet-kumar-722478258" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100027956466706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100027956466706" height="30" width="40" /></a>
+<a href="https://instagram.com/_itz_sanjeet_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_itz_sanjeet_01/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@sanjeetkumar-py7he/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sanjeetkumar-py7he/featured" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sanjeetkrk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjeetkrk/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
