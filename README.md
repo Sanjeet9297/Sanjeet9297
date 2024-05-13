@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;">
 
-### 👀 Enthusiastic and tech-driven Full Stack Developer .. 
+### 👀 Enthusiastic and tech-driven Full Stack Developer ...
 
 ### 🌱 An eager learner to technology. An open source Enthusiast .
 Additionally do competitive programming in my extra time.. 
