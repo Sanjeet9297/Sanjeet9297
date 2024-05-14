@@ -6,7 +6,7 @@
 ### 👀 Enthusiastic and tech-driven Full Stack Developer ...
 
 ### 🌱 An eager learner to technology. An open source Enthusiast .
-Additionally do competitive programming in my extra time.. 
+Additionally do competitive programming in my extra time... 
 - 💬 Ask me about **C , C++ ,Full Stack , MERN , REACT**
 
 ### 💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
