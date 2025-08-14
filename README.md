@@ -23,7 +23,7 @@ Additionally do competitive programming in my extra time...
 
 - 📫 How to reach me **oksanjeetkr124@gmail.com**
 
-- 🔭 Mern Stack Project Quick AI
+- 🔭 Mern Stack Project **https://quick-ai-projectt.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
