@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjeet Kumar</h1>
-<h3 align="center">I am a Full Stack Web Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;">
 
