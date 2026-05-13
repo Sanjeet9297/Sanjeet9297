@@ -1,226 +1,194 @@
 <h1 align="center">Hi 👋, I'm Sanjeet Kumar</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | React Native | PHP Developer</h3>
+<h3 align="center">Full Stack Web Developer | React Native Developer | PHP Developer | AWS Enthusiast</h3>
 
-<img align="right" alt="Coding" width="420" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp">
+<img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;">
 
----
+### 👀 Enthusiastic and tech-driven Full Stack Developer ...
 
-## 🚀 About Me
+### 🌱 An eager learner to technology. An open source Enthusiast .
+Additionally do competitive programming in my extra time...
 
-💻 Results-driven Full Stack Developer with **1.4+ years of experience** building scalable web and mobile applications using **MERN Stack, React Native, and PHP**.
+- 💼 1.4+ Years Experience as Full Stack Developer
+- 💬 Ask me about **C , C++ , Full Stack , MERN , React Native , PHP , AWS**
 
-🔥 Passionate about:
-- Building scalable applications
-- Clean & optimized code
-- REST APIs & Authentication Systems
-- AI-powered platforms
-- Cross-platform mobile applications
-
-🌱 Currently improving my skills in:
-- Advanced MERN Stack
-- React Native Performance Optimization
-- AWS & Cloud Deployment
-- System Design
-
-💬 Ask me about:
-- MERN Stack
-- React Native
-- PHP
-- REST APIs
-- JWT Authentication
-- RBAC Systems
-- MongoDB
-
-📫 Reach me at:
-- **Email:** sanjeetkumardto92@gmail.com
-- **Phone:** +91 9297616440
-
----
-
-## 🌐 Connect With Me
+### 💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
 
 <p align="left">
-<a href="https://linkedin.com/in/sanjeet-kumar-722478258" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=sanjeet9297&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeet9297" />
+</p>
 
-<a href="https://github.com/Sanjeet9297" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=sanjeet9297" alt="sanjeet9297" />
 </a>
+</p>
+
+<p align="left">
+<a href="https://twitter.com/sanjeet60282832" target="blank">
+<img src="https://img.shields.io/twitter/follow/sanjeet60282832?logo=twitter&style=for-the-badge" alt="sanjeet60282832" />
+</a>
+</p>
+
+- 🌱 I’m currently learning **Full Stack Web Development(MERN), AWS & React Native**
+
+- 💼 Working as **React Native & PHP Developer**
+
+- 💬 Ask me about **C, C++, Full Stack, MERN, React Native, PHP, AWS**
+
+- 📫 How to reach me **sanjeetkumardto92@gmail.com**
+
+- 🔭 Mern Stack Project **https://quick-ai-projectt.vercel.app/**
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
 
 <a href="https://twitter.com/sanjeet60282832" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjeet60282832" height="30" width="40" />
+</a>
+
+<a href="https://linkedin.com/in/sanjeet-kumar-722478258" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjeet-kumar-722478258" height="30" width="40" />
+</a>
+
+<a href="https://fb.com/profile.php?id=100027956466706" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100027956466706" height="30" width="40" />
 </a>
 
 <a href="https://instagram.com/_itz_sanjeet_01/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_itz_sanjeet_01/" height="30" width="40" />
 </a>
 
 <a href="https://www.youtube.com/c/@sanjeetkumar-py7he/featured" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sanjeetkumar-py7he/featured" height="30" width="40" />
 </a>
 
 <a href="https://www.leetcode.com/sanjeetkrk/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjeetkrk/" height="30" width="40" />
 </a>
+
 </p>
 
----
+<br>
+<br>
 
-## 🌐 Portfolio & Projects
+<img src="https://img.shields.io/github/followers/Sanjeet9297?label=Sanjeet9297&style=social" height="32" title="Follow me" />
 
-🚀 **Portfolio Website**  
-🔗 https://sanjeet-portfolio-jade.vercel.app
+</br></br>
 
-🤖 **QuickAI – AI Content & Image Generation Platform**  
-🔗 https://quick-ai-projectt.vercel.app/
+<h3 align="left">Languages and Tools:</h3>
 
----
-
-# 💼 Work Experience
-
-## Full Stack Developer — Abhhyam Ventures India Pvt. Ltd.
-📅 April 2026 – Present
-
-**Tech Stack:** React Native, PHP, REST APIs, Git
-
-- Developed and maintained cross-platform mobile applications using React Native.
-- Built backend functionalities using PHP for better performance and stability.
-- Integrated REST APIs between frontend and backend systems.
-- Improved app performance and resolved production-level bugs.
-
----
-
-## Full Stack Developer — ClingInfo Tech, Ghaziabad
-📅 May 2025 – March 2026
-
-**Tech Stack:** React.js, Node.js, React Native, MongoDB, Express.js
-
-- Developed scalable web and mobile applications.
-- Implemented JWT Authentication & RBAC systems.
-- Designed optimized RESTful APIs.
-- Improved workflow efficiency through automation modules.
-
----
-
-## Full Stack Developer Intern — C-DOT, Delhi
-📅 Feb 2025 – April 2025
-
-**Tech Stack:** React.js, Node.js, MongoDB, Selenium WebDriver, ApexCharts
-
-- Automated 4G network testing workflows using Selenium.
-- Developed real-time analytics dashboards.
-- Built REST APIs and optimized MongoDB queries.
-- Reduced manual testing efforts by 40%.
-
----
-
-# 🚀 Featured Projects
-
-## 🔹 PowerSafe – ERP & Mobile Application
-
-**Tech Stack:** React.js, React Native, Node.js, MongoDB, JWT
-
-- Developed role-based ERP platform.
-- Implemented JWT authentication & RBAC.
-- Built scalable CRUD modules.
-- Added real-time analytics in mobile app.
-
----
-
-## 🔹 Instructor – Role-Based Mobile Application
-
-**Tech Stack:** React Native, Node.js, MongoDB, Razorpay
-
-- Multi-role mobile app for Instructor, Parent & Admin.
-- Attendance & class scheduling system.
-- Razorpay payment gateway integration.
-- Subscription & billing automation.
-
----
-
-## 🔹 QuickAI – AI Content & Image Generation Platform
-
-**Tech Stack:** React.js, Node.js, Express.js, NeonDB, OpenAI API, Gemini API
-
-- AI-powered content & image generation platform.
-- Integrated OpenAI & Gemini APIs.
-- Improved API response time by 35%.
-- Implemented Cloudinary media management.
-
----
-
-# 🛠️ Tech Stack
-
-## Frontend
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+</a>
+
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</p>
+</a>
 
-## Backend
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-</p>
+</a>
 
-## Database
-<p align="left">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</p>
+</a>
 
-## Tools & Cloud
-<p align="left">
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>
+
+<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+</a>
+
+<a href="https://redux.js.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+</a>
+
+<!-- Java -->
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
+
+<!-- Docker -->
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
+</a>
+
+<!-- Dart -->
+<a href="https://dart.dev/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
+</a>
+
+<!-- SQL -->
+<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="40" height="40"/>
+</a>
+
+<!-- AWS -->
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</a>
+
+<!-- Vercel -->
+<a href="https://vercel.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
+</a>
+
+<!-- Netlify -->
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
+</a>
+
 </p>
 
----
-
-# 🎓 Education
-
-🎓 **Bachelor of Technology (B.Tech) – Computer Science Engineering**  
-Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal  
-📅 2021 – 2025
-
----
-
-# 📜 Certification
-
-🏆 Full Stack Developer – Naresh I Technologies, Hyderabad (2024)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sanjeet9297&show_icons=true&theme=tokyonight" alt="github stats" />
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeet9297&show_icons=true&locale=en&layout=compact" alt="sanjeet9297" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjeet9297&theme=tokyonight" alt="streak stats" />
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjeet9297&show_icons=true&locale=en" alt="sanjeet9297" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeet9297&layout=compact&theme=tokyonight" alt="top languages" />
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeet9297&" alt="sanjeet9297" />
 </p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sanjeet9297&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/github/followers/Sanjeet9297?label=Followers&style=social" />
-</p>
-
-<h3 align="center">⭐ Building Scalable Web & Mobile Applications ⭐</h3>
